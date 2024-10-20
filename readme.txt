@@ -80,18 +80,6 @@ Python, FastAPI, CSS, GIT, Javascript, Full-stack development, Model development
 Data Structures & Algorithms, Microservices, Service-oriented, architecture, NodeJS, SQL/NoSQL, Docker
 
 
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
-
-
-
 -------------------------------------------------------------------------------------------------------
 
 
