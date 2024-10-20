@@ -88,11 +88,11 @@ Recent Works:
 Here are some of my favorite projects I have done lately. Feel free to check them out.
 
 Machine Learning Laboratory:
- - Github (https://github.com/logosrhema01/machine-learning-laboratory.git)
+ - Github (https://github.com/fiifinketia/machine-learning-laboratory.git)
  - Tags: Python,FastAPI,React,GRPC
 
 Web3 Wine Marketplace:
- - Github (https://github.com/logosrhema01/web3-wine-marketplace.git)
+ - Github (https://github.com/fiifinketia/web3-wine-marketplace.git)
  - Tags: Vue.js, Web3, NFTs
 
 -------------------------------------------------------------------------------------------------------
